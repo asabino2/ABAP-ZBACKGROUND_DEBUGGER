@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SOBJ" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SWOTDV>
+    <SWOTDV>
+     <OBJTYPE>ZBGDEBUG</OBJTYPE>
+     <VERB>OPENDEBUG</VERB>
+     <VERBTYPE>M</VERBTYPE>
+     <CREA_REL>755</CREA_REL>
+     <EDITORDER>0001</EDITORDER>
+     <EDITELEM>OpenDebug</EDITELEM>
+     <REFTYPE>D</REFTYPE>
+     <ELEMTYPE>E</ELEMTYPE>
+     <DIALOG>X</DIALOG>
+     <SYNCHRON>X</SYNCHRON>
+    </SWOTDV>
+    <SWOTDV>
+     <OBJTYPE>ZBGDEBUG</OBJTYPE>
+     <VERB>WORKPROCESS</VERB>
+     <VERBTYPE>K</VERBTYPE>
+     <CREA_REL>755</CREA_REL>
+     <EDITORDER>0001</EDITORDER>
+     <EDITELEM>Workprocess</EDITELEM>
+     <REFTYPE>D</REFTYPE>
+     <REFSTRUCT>ZSTBC_BG_DEBUGGER_AUX</REFSTRUCT>
+     <REFFIELD>WP_INDEX</REFFIELD>
+     <ELEMTYPE>E</ELEMTYPE>
+    </SWOTDV>
+   </SWOTDV>
+   <SWOTOL>
+    <SWOTOL>
+     <OBJTYPE>ZBGDEBUG</OBJTYPE>
+     <AREA>*ROOT</AREA>
+     <AREACLASS>04</AREACLASS>
+     <MAINENTRY>X</MAINENTRY>
+    </SWOTOL>
+   </SWOTOL>
+   <SWOTTV>
+    <SWOTTV>
+     <OBJTYPE>ZBGDEBUG</OBJTYPE>
+     <LANGUAGE>P</LANGUAGE>
+     <VERB>OPENDEBUG</VERB>
+     <DESCRIPT>Abrir depuração</DESCRIPT>
+     <SHORTTEXT>Abrir Depuração</SHORTTEXT>
+    </SWOTTV>
+    <SWOTTV>
+     <OBJTYPE>ZBGDEBUG</OBJTYPE>
+     <LANGUAGE>P</LANGUAGE>
+     <VERB>WORKPROCESS</VERB>
+     <DESCRIPT>Workprocess</DESCRIPT>
+     <SHORTTEXT>Workprocess</SHORTTEXT>
+    </SWOTTV>
+   </SWOTTV>
+   <TOJTB>
+    <TOJTB>
+     <NAME>ZBGDEBUG</NAME>
+     <ACTIVE>X</ACTIVE>
+     <ACTIVELANG>P</ACTIVELANG>
+     <PROGNAME>ZBGDEBUG</PROGNAME>
+     <EDITELEM>ZBGDEBUG</EDITELEM>
+     <EPRIMETHOD>Display</EPRIMETHOD>
+     <APPLIC>*</APPLIC>
+     <CREA_REL>755</CREA_REL>
+     <CHAN_REL>755</CHAN_REL>
+     <VERSION>755</VERSION>
+     <OBJTYPECLS>01</OBJTYPECLS>
+     <KEYLENGTH>30</KEYLENGTH>
+    </TOJTB>
+   </TOJTB>
+   <TOJTT>
+    <TOJTT>
+     <NAME>ZBGDEBUG</NAME>
+     <LANGUAGE>P</LANGUAGE>
+     <NTEXT>ZBGDEBUG</NTEXT>
+     <STEXT>Background debugger</STEXT>
+    </TOJTT>
+   </TOJTT>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -103,7 +103,3 @@ zcl_bgd_debugger=>debug(
 
 ---
 
-## Licença
-
-Este código foi desenvolvido para uso interno no SAP e pode ser adaptado conforme necessário. Certifique-se de revisar as políticas de licença aplicáveis antes de utilizá-lo em outros contextos.
-```

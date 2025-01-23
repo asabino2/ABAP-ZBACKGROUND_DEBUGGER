@@ -1,7 +1,7 @@
 # ZCL_BGD_DEBUGGER
 
 A classe `ZCL_BGD_DEBUGGER` é uma ferramenta para facilitar a depuração em segundo plano (background debugging) no SAP. Ela permite criar pontos de controle em processos executados em background e enviar notificações configuráveis aos responsáveis.
-
+Use o ABAPGIT para instalar esse produto
 ---
 
 ## Definição da Classe
